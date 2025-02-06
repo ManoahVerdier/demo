@@ -1,3 +1,3 @@
 <?php
-    echo "General Kenobi";
+    print_r("General Kenobi");
 ?>
