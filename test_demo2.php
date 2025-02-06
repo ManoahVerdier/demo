@@ -1,3 +1,3 @@
 <?php
-    echo "General Kenobi !";
+    echo "General Kenobi";
 ?>
