@@ -4,5 +4,5 @@
     echo "test3";
     echo "test pour une autre branche";
 
-    echo "test";
+    echo "on va tester stash";
 ?>
