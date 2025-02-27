@@ -6,5 +6,5 @@
 
     echo "on va tester stash";
 
-    erreur
+    erreur on va supprimer
 ?>
