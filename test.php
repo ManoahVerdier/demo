@@ -5,4 +5,6 @@
     echo "test pour une autre branche";
 
     echo "on va tester stash";
+
+    erreur
 ?>
